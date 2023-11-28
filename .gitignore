@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+.idea
+*.iml
+target
+.DS_Store
+*.log
+*.log.*
+logs/
+logs2/
+nearlog/
+velocity.log
+test.log
+pom.xml.versionsBackup
+.flattened-pom.xml
+test-output/
